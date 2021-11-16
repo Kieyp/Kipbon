@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kipbon
-- 👀 I’m interested in ...data analytics
-- 🌱 I’m currently learning ...java and html
+- 👋 Hi, I’m @Kieyp
+- 👀 I’m interested in ...data analytics and programming
+- 🌱 I’m currently learning ...javasript and html
 - 💞️ I’m looking to collaborate on ...coding and creating applications
 - 📫 How to reach me ...
 
